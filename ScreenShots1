@@ -1,12 +1,13 @@
 ## Screenshots
 
-### Store front running at : htt://20.63.75.128:8080 
-![Store front](screenshots/stor-front.png)
 
 
+### Store Front
+![Store Front](screenshots/store-front.png)
 
 ### RabbitMQ Dashboard
-![RabbitMQ Dashboard](screenshots/rabitMQ-dashboard.png)
+![RabbitMQ Dashboard](screenshots/rabbitMQ-dashboard.png)
 
 ### Order Confirmation
 ![Order Confirmation](screenshots/order-confirmation.png)
+
